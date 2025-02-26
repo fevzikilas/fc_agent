@@ -34,5 +34,5 @@ website:
         href: https://www.linkedin.com/in/fevzikilas/
   sidebar:
     style: floating
-
+ 
 metadata-files: [nbdev.yml, sidebar.yml]
