@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fc_agent"
+  site-url: "https://fevzikilas.github.io/fc_agent"
+  description: "Fine Tuning LLM for function calling Agent. LoRA"
+  repo-branch: main
+  repo-url: "https://github.com/fevzikilas/fc_agent"
