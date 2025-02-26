@@ -3,11 +3,10 @@ project:
 
 format:
   html:
-    theme: cosmo
+    theme: sketchy
     css: styles.css
     toc: true
     keep-md: true
-  commonmark: default
 
 website:
   twitter-card: true
@@ -16,6 +15,23 @@ website:
   navbar:
     background: primary
     search: true
+    left:
+      - href: /index.html
+        text: fc_agent NOTES
+      - href: /about.html
+        text: ABOUT
+      - text: "FEVZİ KILAS"
+        href: https://fevzikilas.tech
+    right:
+      - icon: github
+        menu:
+          - text: Main
+            href:  https://github.com/fevzikilas
+          - text: Report a Bug
+            href:  https://github.com/fevzikilas/fc_agent/issues/new
+      - icon: linkedin
+        text: Linkedin
+        href: https://www.linkedin.com/in/fevzikilas/
   sidebar:
     style: floating
 
